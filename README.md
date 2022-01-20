@@ -14,7 +14,7 @@ SolidWorks is a computer-aided design (CAD) software that allows the user to des
 
 1. Download and open SolidWorks.
 2. Click "Part" under "New" on the welcome screen to create a new part.
->![plane](plane.png)
+>![model](model.png)
 3. Under the "Sketch" tab, click on the "Sketch" button to begin a new sketch. The easiest way to create an object in SolidWorks is to create a 2D sketch, then extrude into 3D.
 4. Click on the plane you wish to create your sketch in to initialize the sketch.
 5. Click on the "Circle" tool.
