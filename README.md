@@ -20,8 +20,8 @@ SolidWorks is a computer-aided design (CAD) software that allows the user to des
 4. Click on the plane you wish to create your sketch in to initialize the sketch.
 >![plane](plane.png)
 5. Click on the "Circle" tool.
->![circle](circle.png)
 6. Click on your screen to place the center point of the circle. Then, drag your mouse to the desired radius, and click to complete the circle.
+>![circle](circle.png)
 7. Click the "Exit Sketch" button to complete your sketch.
 8. Under the "Features" tab, click on the "Extruded Boss/Base" button. This tool allows you to extrude your sketch into 3D. Since there is only one sketch, this tool will automatically select that sketch to extrude.
 9. Enter the height you wish to extrude your sketch. The program will display a preview of the extrusion so you can better visualize.
