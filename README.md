@@ -1,4 +1,3 @@
-# markdown-solidworks
 # How to Model a Cylinder in SolidWorks
 
 SolidWorks is a computer-aided design (CAD) software that allows the user to design models of parts. It allows the user to visualize and analyze an object without the need to construct it in reality. A cylinder is an easy to construct object that will introduce you to SolidWorks' basic workflow.
